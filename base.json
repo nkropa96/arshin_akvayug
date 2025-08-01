@@ -16773,5 +16773,1052 @@
     ],
     "parseTimestamp": "2025-08-01T15:00:15.096497",
     "sourceUrl": "https://grmetr.ru/gosreestr/312435-1498-61-ts-1"
+  },
+  {
+    "id": "322761-20364-00-dymetic-9415",
+    "registryNumber": "20364-00",
+    "name": "Счетчики тепла и воды Dymetic-9415",
+    "model": "Dymetic-9415",
+    "manufacturer": "ОАО \"Шадринский телефонный завод\", г.Шадринск, ЗАО \"Даймет\", г.Тюмень, ОАО \"Сатурн\", г.Омск, НПП ООО \"Пьезоэлектрик\", г.Ростов-на-Дону",
+    "validUntil": "4764-05-01",
+    "verificationInterval": "2 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "20364-00: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-20364-00.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:33:52.868696",
+    "sourceUrl": "https://grmetr.ru/gosreestr/322761-20364-00-dymetic-9415"
+  },
+  {
+    "id": "311219-14441-98-sku-01",
+    "registryNumber": "14441-98",
+    "name": "Счетчики количества тепла ультразвуковые SKU-01",
+    "model": "SKU-01",
+    "manufacturer": "ЗАО \"Katra\", ЛИТВА, г.Каунас",
+    "validUntil": "2003-02-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14441-98: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14441-98.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:34:02.942418",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311219-14441-98-sku-01"
+  },
+  {
+    "id": "309855-13847-94-thermiflu-compact",
+    "registryNumber": "13847-94",
+    "name": "Счетчики тепла THERMIFLU COMPACT",
+    "model": "",
+    "manufacturer": "Фирма \"Schlumberger Industries\", ФРАНЦИЯ",
+    "validUntil": "1999-01-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "13847-94: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-13847-94.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:34:19.770706",
+    "sourceUrl": "https://grmetr.ru/gosreestr/309855-13847-94-thermiflu-compact"
+  },
+  {
+    "id": "314256-15831-04-maklo",
+    "registryNumber": "15831-04",
+    "name": "Счетчики тепла многофункциональные MAKLO",
+    "model": "",
+    "manufacturer": "ООО \"ТЭСС-Электроникс\", РОССИЯ, г.Москва",
+    "validUntil": "2009-07-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15831-04: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15831-04.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:35:08.566276",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314256-15831-04-maklo"
+  },
+  {
+    "id": "333261-26879-15-dymetic-9416m",
+    "registryNumber": "26879-15",
+    "name": "Счетчики тепла и воды DYMETIC-9416М",
+    "model": "DYMETIC-9416М",
+    "manufacturer": "ЗАО \"Даймет\", РОССИЯ, г.Тюмень",
+    "validUntil": "2020-03-19",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/99/fd/99fd25666b1ab2a426ba5b98cc32fa62.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2015-26879-15.pdf",
+    "downloadFiles": [
+      {
+        "name": "26879-15: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2015-26879-15.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "26879-15: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2022-mp26879-15.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №26879-15": []
+    },
+    "parseTimestamp": "2025-08-01T15:35:37.930415",
+    "sourceUrl": "https://grmetr.ru/gosreestr/333261-26879-15-dymetic-9416m"
+  },
+  {
+    "id": "311287-14462-95-tsp-500pt",
+    "registryNumber": "14462-95",
+    "name": "Термопреобразователи сопротивления платиновые повышенной точности для счетчиков тепла ТСП-500ПТ",
+    "model": "ТСП-500ПТ",
+    "manufacturer": "ГУП РФ \"Владимирский завод \"Эталон\", РОССИЯ, г.Владимир",
+    "validUntil": "2000-04-01",
+    "verificationInterval": "2 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14462-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14462-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:35:48.774745",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311287-14462-95-tsp-500pt"
+  },
+  {
+    "id": "309460-13651-93-skt-1",
+    "registryNumber": "13651-93",
+    "name": "Счетчики количества тепла СКТ-1",
+    "model": "СКТ-1",
+    "manufacturer": "НПО \"Темп\", г. Москва;\nНИИ тепловых процессов, г. Москва",
+    "validUntil": "1998-07-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "13651-93: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-13651-93.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:35:51.555017",
+    "sourceUrl": "https://grmetr.ru/gosreestr/309460-13651-93-skt-1"
+  },
+  {
+    "id": "312309-14914-95-ewz311-ewz331-ewz350-ewz350d",
+    "registryNumber": "14914-95",
+    "name": "Счетчики тепла EWZ311, EWZ331, EWZ350, EWZ350D",
+    "model": "EWZ311",
+    "manufacturer": "Фирма \"IWR Regler + Compensatoren GmbH\", ГЕРМАНИЯ",
+    "validUntil": "2000-11-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14914-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14914-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:36:23.423141",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312309-14914-95-ewz311-ewz331-ewz350-ewz350d"
+  },
+  {
+    "id": "315517-16463-02-metran-400-isp-a-b-v-g-d",
+    "registryNumber": "16463-02",
+    "name": "Счетчики тепла Метран-400 (исп. А, Б, В, Г, Д)",
+    "model": "Метран-400",
+    "manufacturer": "ЗАО \"Промышленная группа \"Метран\", РОССИЯ, г.Челябинск",
+    "validUntil": "2007-08-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "16463-02: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-16463-02.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:37:39.236438",
+    "sourceUrl": "https://grmetr.ru/gosreestr/315517-16463-02-metran-400-isp-a-b-v-g-d"
+  },
+  {
+    "id": "309890-13859-94-integral-mk",
+    "registryNumber": "13859-94",
+    "name": "Счетчики тепла Integral-MK",
+    "model": "",
+    "manufacturer": "Фирма \"Allmess\", ГЕРМАНИЯ",
+    "validUntil": "",
+    "verificationInterval": "5 лет",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "13859-94: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-13859-94.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:37:58.863756",
+    "sourceUrl": "https://grmetr.ru/gosreestr/309890-13859-94-integral-mk"
+  },
+  {
+    "id": "311217-14441-95-sku-01",
+    "registryNumber": "14441-95",
+    "name": "Счетчики количества тепла ультразвуковые SKU-01",
+    "model": "SKU-01",
+    "manufacturer": "НПФ \"Катра\", ЛИТВА, г.Каунас",
+    "validUntil": "2000-04-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14441-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14441-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:38:13.216554",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311217-14441-95-sku-01"
+  },
+  {
+    "id": "315519-16463-09-metran-400-isp-a-b-v-g-d-e",
+    "registryNumber": "16463-09",
+    "name": "Счетчики тепла Метран-400 (исп. А, Б, В, Г, Д, Е)",
+    "model": "Метран-400",
+    "manufacturer": "ЗАО \"Промышленная группа \"Метран\", РОССИЯ, г.Челябинск",
+    "validUntil": "2014-07-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "https://grmetr.ru/media/pdf/2009-16463-09.pdf",
+    "downloadFiles": [
+      {
+        "name": "16463-09: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2009-16463-09.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №16463-09": []
+    },
+    "parseTimestamp": "2025-08-01T15:39:38.616740",
+    "sourceUrl": "https://grmetr.ru/gosreestr/315519-16463-09-metran-400-isp-a-b-v-g-d-e"
+  },
+  {
+    "id": "1393150-83148-21-rhcs-15",
+    "registryNumber": "83148-21",
+    "name": "Счетчики тепла RHCS-15",
+    "model": "RHCS-15",
+    "manufacturer": "ООО \"ЗАВОД ПРИБОРОВ\", РОССИЯ, г. Орел",
+    "validUntil": "2026-09-20",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/ab/09/ab0968469c6903055e83a79b86054264.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2021-83148-21.pdf",
+    "downloadFiles": [
+      {
+        "name": "83148-21: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2021-83148-21.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "83148-21: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2021-mp83148-21.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №83148-21": []
+    },
+    "parseTimestamp": "2025-08-01T15:39:40.402560",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1393150-83148-21-rhcs-15"
+  },
+  {
+    "id": "333259-26879-04-dymetic-9416",
+    "registryNumber": "26879-04",
+    "name": "Счетчики тепла и воды DYMETIC-9416",
+    "model": "DYMETIC-9416",
+    "manufacturer": "ОАО \"Сатурн\", г. Омск;\nЗАО \"Даймет\", г. Тюмень;\nОАО \"Опытный завод \"Электрон\", г. Тюмень",
+    "validUntil": "2009-05-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "26879-04: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-26879-04.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:39:52.272579",
+    "sourceUrl": "https://grmetr.ru/gosreestr/333259-26879-04-dymetic-9416"
+  },
+  {
+    "id": "1418710-93094-24-stu",
+    "registryNumber": "93094-24",
+    "name": "Счетчики тепла ультразвуковые СТУ",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью ПКФ \"ГЕРРИДА\" (ООО ПКФ \"ГЕРРИДА\"), г. Краснодар, хутор Октябрьский",
+    "validUntil": "2029-09-02",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/03/9f/039feeabf864dcefe341c2e7a46627b2.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2024-93094-24.pdf",
+    "downloadFiles": [
+      {
+        "name": "93094-24: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2024-93094-24.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "93094-24: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2024-mp93094-24.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №93094-24": []
+    },
+    "parseTimestamp": "2025-08-01T15:40:01.956076",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1418710-93094-24-stu"
+  },
+  {
+    "id": "314258-15831-98-maklo",
+    "registryNumber": "15831-98",
+    "name": "Счетчики тепла многофункциональные MAKLO",
+    "model": "",
+    "manufacturer": "ООО \"ТЭСС\", РОССИЯ, г.Москва",
+    "validUntil": "2003-03-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15831-98: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15831-98.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:40:47.238799",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314258-15831-98-maklo"
+  },
+  {
+    "id": "311365-14502-00-combimeter-q-i-combimeter-ii",
+    "registryNumber": "14502-00",
+    "name": "Счетчики тепла электромагнитные Combimeter Q и Combimeter II",
+    "model": "",
+    "manufacturer": "Фирма \"Hydrometer\", ГЕРМАНИЯ",
+    "validUntil": "2006-01-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14502-00: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14502-00.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:41:00.356118",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311365-14502-00-combimeter-q-i-combimeter-ii"
+  },
+  {
+    "id": "311811-14677-95-drkt",
+    "registryNumber": "14677-95",
+    "name": "Счетчики тепла ДРКТ",
+    "model": "",
+    "manufacturer": "ЗАО \"Флоукор\", РОССИЯ, г.Москва",
+    "validUntil": "2000-07-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14677-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14677-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:42:07.665913",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311811-14677-95-drkt"
+  },
+  {
+    "id": "789788-75903-19-eko-nom-stu",
+    "registryNumber": "75903-19",
+    "name": "Счетчики тепла ЭКО НОМ СТУ",
+    "model": "",
+    "manufacturer": "ООО \"ДЮКС\", РОССИЯ, г.Москва",
+    "validUntil": "2024-08-19",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/98/a1/98a13f348172588695ccbd783a20b7e6.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2019-75903-19.pdf",
+    "downloadFiles": [
+      {
+        "name": "75903-19: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2019-75903-19.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "75903-19: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2019-mp75903-19.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №75903-19": []
+    },
+    "parseTimestamp": "2025-08-01T15:42:11.930361",
+    "sourceUrl": "https://grmetr.ru/gosreestr/789788-75903-19-eko-nom-stu"
+  },
+  {
+    "id": "531706-73814-19-supercal-739a",
+    "registryNumber": "73814-19",
+    "name": "Счетчики тепла компактные SUPERCAL 739A",
+    "model": "",
+    "manufacturer": "Фирма \"GWF MessSysteme AG\", ШВЕЙЦАРИЯ",
+    "validUntil": "2024-01-22",
+    "verificationInterval": "6 лет",
+    "photo": "https://grmetr.ru/media/cache/98/18/9818903a693a2bf870da747278b652d8.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2019-73814-19.pdf",
+    "downloadFiles": [
+      {
+        "name": "73814-19: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2019-73814-19.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "73814-19: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2019-mp73814-19.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №73814-19": []
+    },
+    "parseTimestamp": "2025-08-01T15:43:05.550151",
+    "sourceUrl": "https://grmetr.ru/gosreestr/531706-73814-19-supercal-739a"
+  },
+  {
+    "id": "309887-13858-94-megacontrol-thermiflu",
+    "registryNumber": "13858-94",
+    "name": "Счетчики тепла Megacontrol-Thermiflu",
+    "model": "",
+    "manufacturer": "Фирма \"Allmess\", ГЕРМАНИЯ",
+    "validUntil": "",
+    "verificationInterval": "5 лет",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "13858-94: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-13858-94.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:43:19.362188",
+    "sourceUrl": "https://grmetr.ru/gosreestr/309887-13858-94-megacontrol-thermiflu"
+  },
+  {
+    "id": "331830-25949-08-metran-421-isp-a-b-v",
+    "registryNumber": "25949-08",
+    "name": "Счетчики тепла Метран-421 (исп. А, Б, В)",
+    "model": "Метран-421",
+    "manufacturer": "ЗАО \"Промышленная группа \"Метран\", РОССИЯ, г.Челябинск",
+    "validUntil": "2014-01-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "https://grmetr.ru/media/pdf/2008-25949-08.pdf",
+    "downloadFiles": [
+      {
+        "name": "25949-08: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2008-25949-08.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №25949-08": []
+    },
+    "parseTimestamp": "2025-08-01T15:43:26.202648",
+    "sourceUrl": "https://grmetr.ru/gosreestr/331830-25949-08-metran-421-isp-a-b-v"
+  },
+  {
+    "id": "333260-26879-09-dymetic-9416",
+    "registryNumber": "26879-09",
+    "name": "Счетчики тепла и воды DYMETIC-9416",
+    "model": "DYMETIC-9416",
+    "manufacturer": "ЗАО \"Даймет\", РОССИЯ, г.Тюмень",
+    "validUntil": "2014-08-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "https://grmetr.ru/media/pdf/2009-26879-09.pdf",
+    "downloadFiles": [
+      {
+        "name": "26879-09: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2009-26879-09.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №26879-09": []
+    },
+    "parseTimestamp": "2025-08-01T15:43:27.222414",
+    "sourceUrl": "https://grmetr.ru/gosreestr/333260-26879-09-dymetic-9416"
+  },
+  {
+    "id": "312982-15211-97-wsd2c-wsd3c-wsd4-wsd5-wsd6",
+    "registryNumber": "15211-97",
+    "name": "Счетчики тепла WSD2C, WSD3C, WSD4, WSD5, WSD6",
+    "model": "WSD2C",
+    "manufacturer": "Фирма \"Landis & Staefa Deutschland electronic GmbH\", ГЕРМАНИЯ",
+    "validUntil": "2002-12-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:43:35.946070",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312982-15211-97-wsd2c-wsd3c-wsd4-wsd5-wsd6"
+  },
+  {
+    "id": "312981-15211-96-wsd2c-wsd3c-wsd4-wsd5-wsd6",
+    "registryNumber": "15211-96",
+    "name": "Счетчики тепла WSD2C, WSD3C, WSD4, WSD5, WSD6",
+    "model": "WSD2C",
+    "manufacturer": "Фирма \"Landis & Staefa Deutschland electronic GmbH\", ГЕРМАНИЯ",
+    "validUntil": "2001-04-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15211-96: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15211-96.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:44:22.538958",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312981-15211-96-wsd2c-wsd3c-wsd4-wsd5-wsd6"
+  },
+  {
+    "id": "314378-15889-96-stem",
+    "registryNumber": "15889-96",
+    "name": "Счетчики тепла электромагнитные микропроцессорные СТЭМ",
+    "model": "",
+    "manufacturer": "ПО \"Машиностроительный завод \"Молния\", РОССИЯ, г.Москва",
+    "validUntil": "2002-01-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15889-96: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15889-96.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:44:28.399037",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314378-15889-96-stem"
+  },
+  {
+    "id": "315518-16463-08-metran-400-isp-a-b-v-g-d",
+    "registryNumber": "16463-08",
+    "name": "Счетчики тепла Метран-400 (исп. А, Б, В, Г, Д)",
+    "model": "Метран-400",
+    "manufacturer": "ЗАО \"Промышленная группа \"Метран\", РОССИЯ, г.Челябинск",
+    "validUntil": "2014-01-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "https://grmetr.ru/media/pdf/2008-16463-08.pdf",
+    "downloadFiles": [
+      {
+        "name": "16463-08: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2008-16463-08.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №16463-08": []
+    },
+    "parseTimestamp": "2025-08-01T15:44:39.607644",
+    "sourceUrl": "https://grmetr.ru/gosreestr/315518-16463-08-metran-400-isp-a-b-v-g-d"
+  },
+  {
+    "id": "312028-14773-97-xmt868-6068-6468",
+    "registryNumber": "14773-97",
+    "name": "Расходомеры-счетчики жидкости и тепла XMT868, 6068, 6468",
+    "model": "XMT868",
+    "manufacturer": "Фирма \"Panametrics Ltd.\", СОЕДИНЕННЫЕ ШТАТЫ; Фирма \"Panametrics Ltd.\", ИРЛАНДИЯ",
+    "validUntil": "2002-09-01",
+    "verificationInterval": "2 года - на тепло; 4 года - на расход",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:45:20.443799",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312028-14773-97-xmt868-6068-6468"
+  },
+  {
+    "id": "312025-14772-95-pt868-pt868-r-2pt868-df868",
+    "registryNumber": "14772-95",
+    "name": "Расходомеры-счетчики жидкости и тепла PT868, PT868-R, 2PT868, DF868",
+    "model": "PT868",
+    "manufacturer": "Фирма \"Panametrics Ltd.\", СОЕДИНЕННЫЕ ШТАТЫ; Фирма \"Panametrics Ltd.\", ИРЛАНДИЯ",
+    "validUntil": "2000-09-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14772-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14772-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:45:33.791164",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312025-14772-95-pt868-pt868-r-2pt868-df868"
+  },
+  {
+    "id": "1422526-94323-25-dux-stu",
+    "registryNumber": "94323-25",
+    "name": "Счетчики тепла DUX СТУ",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью \"Дюкс\" (ООО \"Дюкс\"), г. Москва",
+    "validUntil": "2030-01-13",
+    "verificationInterval": "6 лет",
+    "photo": "https://grmetr.ru/media/cache/70/ad/70ad30c1e92a2a35ac2ac0393f51f43b.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2025-94323-25.pdf",
+    "downloadFiles": [
+      {
+        "name": "94323-25: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2025-94323-25.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "94323-25: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2025-mp94323-25.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №94323-25": []
+    },
+    "parseTimestamp": "2025-08-01T15:45:49.343309",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1422526-94323-25-dux-stu"
+  },
+  {
+    "id": "314257-15831-96-maklo",
+    "registryNumber": "15831-96",
+    "name": "Счетчики тепла многофункциональные MAKLO",
+    "model": "",
+    "manufacturer": "ООО \"ТЭСС\", РОССИЯ, г.Москва",
+    "validUntil": "2002-01-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15831-96: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15831-96.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:45:56.245152",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314257-15831-96-maklo"
+  },
+  {
+    "id": "314379-15889-97-stem",
+    "registryNumber": "15889-97",
+    "name": "Счетчики тепла электромагнитные микропроцессорные СТЭМ",
+    "model": "",
+    "manufacturer": "ПО \"Машиностроительный завод \"Молния\", РОССИЯ, г.Москва",
+    "validUntil": "2002-08-15",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15889-97: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15889-97.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:46:01.897242",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314379-15889-97-stem"
+  },
+  {
+    "id": "312026-14772-97-pt868-pt868-r-2pt868-df868",
+    "registryNumber": "14772-97",
+    "name": "Расходомеры-счетчики жидкости и тепла PT868, PT868-R, 2PT868, DF868",
+    "model": "PT868",
+    "manufacturer": "Фирма \"Panametrics Ltd.\", СОЕДИНЕННЫЕ ШТАТЫ; Фирма \"Panametrics Ltd.\", ИРЛАНДИЯ",
+    "validUntil": "2002-09-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:46:08.727780",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312026-14772-97-pt868-pt868-r-2pt868-df868"
+  },
+  {
+    "id": "1418711-93095-24-stk",
+    "registryNumber": "93095-24",
+    "name": "Счетчики тепла крыльчатые СТК",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью ПКФ \"ГЕРРИДА\" (ООО ПКФ \"ГЕРРИДА\"), г. Краснодар, хутор Октябрьский",
+    "validUntil": "2029-09-02",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/6d/e2/6de2a29c5b61942cdc4670baa25e2fd7.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2024-93095-24.pdf",
+    "downloadFiles": [
+      {
+        "name": "93095-24: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2024-93095-24.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "93095-24: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2024-mp93095-24.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №93095-24": []
+    },
+    "parseTimestamp": "2025-08-01T15:46:09.693726",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1418711-93095-24-stk"
+  },
+  {
+    "id": "323799-20974-01-sku-02",
+    "registryNumber": "20974-01",
+    "name": "Счетчики количества тепла и воды ультразвуковые SKU-02",
+    "model": "SKU-02",
+    "manufacturer": "СП \"Катрабел\" ООО, Беларусь, г.Минск;\nСП \"Апфель и Катра\", Беларусь, г.Минск (срок свидетельства: 01.04.2006 г.)",
+    "validUntil": "2007-05-01",
+    "verificationInterval": "2 года; с 2002 г. - 4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "20974-01: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-20974-01.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:46:22.709860",
+    "sourceUrl": "https://grmetr.ru/gosreestr/323799-20974-01-sku-02"
+  },
+  {
+    "id": "311809-14676-95-svt",
+    "registryNumber": "14676-95",
+    "name": "Счетчики тепла СВТ",
+    "model": "",
+    "manufacturer": "Фирма \"Метран\", г.Челябинск;\nЗАО \"Концерн \"Метран\", г.Челябинск",
+    "validUntil": "2000-07-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14676-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14676-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:46:48.265837",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311809-14676-95-svt"
+  },
+  {
+    "id": "311216-14441-03-sku-01",
+    "registryNumber": "14441-03",
+    "name": "Счетчики количества тепла ультразвуковые SKU-01",
+    "model": "SKU-01",
+    "manufacturer": "ЗАО \"Katra\", ЛИТВА, г.Каунас",
+    "validUntil": "2008-10-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14441-03: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14441-03.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:47:19.711676",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311216-14441-03-sku-01"
+  },
+  {
+    "id": "315520-16463-97-metran-400-isp-a-b-v",
+    "registryNumber": "16463-97",
+    "name": "Счетчики тепла Метран-400 (исп. А, Б, В)",
+    "model": "Метран-400",
+    "manufacturer": "Фирма \"Метран\", г.Челябинск;\nЗАО \"Концерн \"Метран\", г.Челябинск",
+    "validUntil": "2002-08-15",
+    "verificationInterval": "2 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "16463-97: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-16463-97.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:47:34.587554",
+    "sourceUrl": "https://grmetr.ru/gosreestr/315520-16463-97-metran-400-isp-a-b-v"
+  },
+  {
+    "id": "320822-19289-00-dymetic-9414",
+    "registryNumber": "19289-00",
+    "name": "Счетчики тепла DYMETIC-9414",
+    "model": "DYMETIC-9414",
+    "manufacturer": "ОАО \"Сатурн\", г.Омск;\nЗАО \"Даймет\", г.Тюмень",
+    "validUntil": "2005-03-01",
+    "verificationInterval": "2 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "19289-00: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-19289-00.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:48:14.249722",
+    "sourceUrl": "https://grmetr.ru/gosreestr/320822-19289-00-dymetic-9414"
+  },
+  {
+    "id": "331829-25949-03-metran-421",
+    "registryNumber": "25949-03",
+    "name": "Счетчики тепла Метран-421",
+    "model": "Метран-421",
+    "manufacturer": "ЗАО \"Промышленная группа \"Метран\", РОССИЯ, г.Челябинск",
+    "validUntil": "2008-12-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "25949-03: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-25949-03.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:48:45.076289",
+    "sourceUrl": "https://grmetr.ru/gosreestr/331829-25949-03-metran-421"
+  },
+  {
+    "id": "311218-14441-96-sku-01",
+    "registryNumber": "14441-96",
+    "name": "Счетчики количества тепла ультразвуковые SKU-01",
+    "model": "SKU-01",
+    "manufacturer": "НПФ \"Katra Ltd.\", ЛИТВА, г.Каунас",
+    "validUntil": "2002-01-01",
+    "verificationInterval": "3 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14441-96: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14441-96.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:49:15.072005",
+    "sourceUrl": "https://grmetr.ru/gosreestr/311218-14441-96-sku-01"
+  },
+  {
+    "id": "1410544-89785-23-metrpro",
+    "registryNumber": "89785-23",
+    "name": "Счетчики тепла  МЕТРПРО",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью \"МетрПро\" (ООО \"МетрПро\"), с. Усады, Республика Татарстан",
+    "validUntil": "2028-08-22",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/3f/54/3f545528a7a59ddd51629ebcb86bd887.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2023-89785-23.pdf",
+    "downloadFiles": [
+      {
+        "name": "89785-23: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2023-89785-23.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "89785-23: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2023-mp89785-23.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №89785-23": []
+    },
+    "parseTimestamp": "2025-08-01T15:49:16.108514",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1410544-89785-23-metrpro"
+  },
+  {
+    "id": "318833-18150-99-multikon",
+    "registryNumber": "18150-99",
+    "name": "Счетчики тепла Мультикон",
+    "model": "",
+    "manufacturer": "ООО Фирма \"Монтажтеплоучет\", РОССИЯ, г.Челябинск",
+    "validUntil": "2004-03-01",
+    "verificationInterval": "2 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "18150-99: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-18150-99.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:49:34.477299",
+    "sourceUrl": "https://grmetr.ru/gosreestr/318833-18150-99-multikon"
+  },
+  {
+    "id": "314259-15831-99-maklo",
+    "registryNumber": "15831-99",
+    "name": "Счетчики тепла многофункциональные MAKLO",
+    "model": "",
+    "manufacturer": "ООО \"ТЭСС\", РОССИЯ, г.Москва",
+    "validUntil": "2004-04-01",
+    "verificationInterval": "4 года",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "15831-99: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-15831-99.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:50:28.744147",
+    "sourceUrl": "https://grmetr.ru/gosreestr/314259-15831-99-maklo"
+  },
+  {
+    "id": "312287-14900-95-ts-k",
+    "registryNumber": "14900-95",
+    "name": "Счетчики тепла ТС-К",
+    "model": "",
+    "manufacturer": "ТОО НПО \"Станкомаш\", РОССИЯ, г.Саратов",
+    "validUntil": "2000-11-01",
+    "verificationInterval": "1 год",
+    "photo": "",
+    "documentUrl": "",
+    "downloadFiles": [
+      {
+        "name": "14900-95: Описание типа СИ",
+        "url": "https://grmetr.ru/media/ext_pdf/ext-14900-95.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {},
+    "parseTimestamp": "2025-08-01T15:50:30.533919",
+    "sourceUrl": "https://grmetr.ru/gosreestr/312287-14900-95-ts-k"
+  },
+  {
+    "id": "1422527-94324-25-eko-nom-stu",
+    "registryNumber": "94324-25",
+    "name": "Счетчики тепла ЭКО НОМ СТУ",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью \"Дюкс\" (ООО \"Дюкс\"), г. Москва",
+    "validUntil": "2030-01-13",
+    "verificationInterval": "6 лет",
+    "photo": "https://grmetr.ru/media/cache/3b/0d/3b0d84e9829e6e67a2738cd7e9a81b8f.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2025-94324-25.pdf",
+    "downloadFiles": [
+      {
+        "name": "94324-25: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2025-94324-25.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "94324-25: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2025-mp94324-25.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №94324-25": []
+    },
+    "parseTimestamp": "2025-08-01T15:50:37.822608",
+    "sourceUrl": "https://grmetr.ru/gosreestr/1422527-94324-25-eko-nom-stu"
+  },
+  {
+    "id": "384100-69923-17-gefest",
+    "registryNumber": "69923-17",
+    "name": "Счетчики тепла \"Гефест\"",
+    "model": "",
+    "manufacturer": "Общество с ограниченной ответственностью \"Сфера экономных технологий\" (ООО \"СЭТ\"), г. Омск",
+    "validUntil": "2027-12-21",
+    "verificationInterval": "4 года",
+    "photo": "https://grmetr.ru/media/cache/9d/96/9d96def77e9182b101a2946f8fd386af.jpg",
+    "documentUrl": "https://grmetr.ru/media/pdf/2024-69923-17-1.pdf",
+    "downloadFiles": [
+      {
+        "name": "69923-17: Описание типа СИ",
+        "url": "https://grmetr.ru/media/pdf/2024-69923-17-1.pdf",
+        "type": "PDF"
+      },
+      {
+        "name": "69923-17: Методика поверки",
+        "url": "https://grmetr.ru/gosreestr/files/mp/2017-mp69923-17.pdf",
+        "type": "PDF"
+      }
+    ],
+    "descriptionSections": {
+      "Описание типа СИ №69923-17": []
+    },
+    "parseTimestamp": "2025-08-01T15:51:18.748683",
+    "sourceUrl": "https://grmetr.ru/gosreestr/384100-69923-17-gefest"
   }
 ]
